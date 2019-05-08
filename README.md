@@ -30,4 +30,7 @@ sudo apt-get install golang
 - then run command :
 go run HelloWorldGo.go
 
+To run html HelloWorld , you should :
+- just open it on your favorite browser like chrome ;)
+
 Have fun :)
